@@ -3,7 +3,7 @@
 exports.shorthands = undefined;
 
 exports.up = (pgm) => {
-  pgm.creatTable("notes", {
+  pgm.createTable("notes", {
     id: {
       type: "VARCHAR(50)",
       primaryKey: true,
