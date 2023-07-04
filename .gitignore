@@ -2,3 +2,5 @@
 node_modules/
 notes-api-backend.pem
 .env
+.prod.env
+dicodingbackend_credentials.csv
